@@ -1,0 +1,12 @@
+<suite name="Automation Suite">
+    <test name="UI Tests">
+        <classes>
+            <class name="com.Ui.LoginUITest"/>
+        </classes>
+    </test>
+    <test name="API Tests">
+        <classes>
+            <class name="com.api.UserApiTest"/>
+        </classes>
+    </test>
+</suite>
